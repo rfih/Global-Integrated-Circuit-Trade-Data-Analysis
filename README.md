@@ -73,6 +73,6 @@ Open `pbix/IC_Trade_Analysis.pbix` in **Power BI Desktop** to interact with:
 
 * Data: **UN Comtrade**
 * Analysis & dashboard: **Rizky Febri Ibra Habibie**
-* Contact: [rizkyfebriibrahabibie@gmail.com](mailto:rizkyfebriibrahabibie@gmail.com) | LinkedIn: /in/rizkyfebriibrahabibie/
+* Contact: [rizkyfebriibrahabibie@gmail.com](mailto:rizkyfebriibrahabibie@gmail.com) | LinkedIn: [/in/rizkyfebriibrahabibie/](https://www.linkedin.com/in/rizkyfebriibrahabibie/)
 
 ---
